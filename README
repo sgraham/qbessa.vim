@@ -1,0 +1,6 @@
+Very basic Vim plugin for highlighting QBE https://c9x.me/compile/ IL files.
+
+There's no strict file extension used, but .ssa is common, so that's what the
+plugin triggers on.
+
+Scott Graham <scott.qbevim@h4ck3r.net>
