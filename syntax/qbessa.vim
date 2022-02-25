@@ -10,6 +10,7 @@ syn keyword qbessaInstr add
 syn keyword qbessaInstr and
 syn keyword qbessaInstr div
 syn keyword qbessaInstr mul
+syn keyword qbessaInstr neg
 syn keyword qbessaInstr or
 syn keyword qbessaInstr rem
 syn keyword qbessaInstr sar
